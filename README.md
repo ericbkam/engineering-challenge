@@ -1,3 +1,5 @@
+I looked extensively through online tutorials and resources, but this is what I have so far for the backend! With a bit more guidance on what exactly the backend here (and in general) is supposed to implement, I could add anything needed!
+
 # Carta Engineering Challenge
 The backend and frontend have been initialized with starter code for Flask and React to help you get started.
 
